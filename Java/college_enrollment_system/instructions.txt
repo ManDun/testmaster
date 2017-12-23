@@ -1,0 +1,24 @@
+General Instruction:
+To run this program,copy the zip file to drive c:
+and extract it.After you have extracted this files 
+open the folder AMIS and go to C:\AMIS\mes\gui\MainFrame.class
+no need to compile since this is already a jar files.
+
+Double click the file MainFrame.class so that you can run it.
+
+thanks...bernard
+
+
+Once it is already opened use the following accounts below.
+
+username:woodpusher
+password:rose
+
+
+Enjoy exploring it.
+
+
+For questions and inquiries contact at the following:
+email:sti_kiddigos@yahoo.com
+website:www.lancestreetcity.com
+
